@@ -16,7 +16,7 @@ less than 40,Female,no,no,one hr or more,22,no,no,8,7,no,occasionally,very often
 less than 40,Male,no,no,one hr or more,15,no,no,7,7,no,occasionally,very often,normal,0,0,not much,no
 40-49,Female,yes,no,none,34,no,no,6,6,no,occasionally,sometimes,normal,3,0,not much,no
 50-59,Male,yes,no,more than half an hr,22,no,no,7,6,no,occasionally,sometimes,normal,0,0,not much,no
-less than 40,Female,no,no,more than half an hr,24,no,no,6,6,no,occasionally,sometimes,normal,2,0,quite often, no
+less than 40,Female,no,no,more than half an hr,24,no,no,6,6,no,occasionally,sometimes,normal,2,0,quite often,no
 40-49,Male,yes,no,one hr or more,24,no,no,11,11,no,occasionally,sometimes,normal,0,0,not much,no
 less than 40,Male,yes,no,one hr or more,22,no,no,8,6,no,often,not at all,normal,0,0,not much,no
 less than 40,Male,yes,no,one hr or more,30,no,yes,9,8,no,occasionally,sometimes,normal,0,0,not much,no
@@ -112,7 +112,6 @@ less than 40,Female,yes,no,one hr or more,24,no,no,8,8,no,often,sometimes,normal
 50-59,Female,yes,no,less than half an hr,28,no,no,7,4,yes,occasionally,very often,high,0,0,quite often,yes
 50-59,Male,no,no,less than half an hr,30,no,no,7,2,no,often,always,normal,0,0,not much,no
 50-59,Male,yes,yes,one hr or more,30,yes,yes,7,7,yes,often,always,high,0,0,quite often,yes
-less than 40,Female,yes,no,more than half an hr,,no,no,7,6,no,occasionally,not at all,normal,0,0,not much,
 less than 40,Female,no,no,more than half an hr,27,no,no,9,6,no,always,very often,high,0,0,not much,no
 less than 40,Male,no,no,one hr or more,22,yes,no,9,2,no,always,always,high,0,yes,quite often,no
 less than 40,Female,no,no,more than half an hr,,no,no,5,4,no,often,very often,normal,0,0,not much,no
